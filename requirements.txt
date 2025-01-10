@@ -1,0 +1,12 @@
+langchain-qdrant
+qdrant_client
+streamlit
+langchain_groq
+langchain_core
+langchain-community
+PyMuPDF
+fastembed
+sentence_transformers
+langchain-mongodb
+fastapi
+trulens
